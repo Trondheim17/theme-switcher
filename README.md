@@ -14,7 +14,6 @@ Fork and clone this repository and open the folder in your code editor.
 #### Summary
 
 In this step, we'll create our Javascript file and connect it to our HTML.
-
 #### Instructions
 
 - Create a new file called `index.js`.
